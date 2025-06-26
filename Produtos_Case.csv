@@ -1,0 +1,10 @@
+Categoria,Id,PotenciaW,Produto
+TV,1001,100,Smart TV 32" Marca A
+TV,1002,200,Smart TV 43" Marca B
+TV,1003,150,Smart TV 40" Marca C
+HomeTheater,2001,100,Home Theater 5.1 Marca A
+HomeTheater,2002,200,Home Theater 7.1 Marca B
+HomeTheater,2003,150,Home Theater Compacto Marca C
+CaixaDeSom,3001,100,Soundbar 100W Marca A
+CaixaDeSom,3002,200,Caixa de Som Bluetooth 200W Marca B
+CaixaDeSom,3003,150,Caixa Acústica 150W Marca C
